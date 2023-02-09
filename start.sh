@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=7eecf8af-921b-4afb-bd8d-39677f38f0aa
-CADDYIndexPage=https://github.com/fomserook/weiz/raw/main/msy.zip
+AUUID=670c85d9-cb1b-4ad0-995d-e9d3c5c7c8b7
+CADDYIndexPage=https://github.com/fomserook/WZWZ/raw/main/BrainStorm.zip
 CONFIGCADDY=https://raw.githubusercontent.com/myruikou/vosmsdkwr/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/myruikou/vosmsdkwr/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
